@@ -6,4 +6,5 @@ public class Student {
     
     private String name;//姓名:小木头
 
+    private int age;//年龄
 }
